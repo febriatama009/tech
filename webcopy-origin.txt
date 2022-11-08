@@ -1,0 +1,284 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/Draggable.min.js
+File Name: D:\Web\www.clapat.com\ajax\libs\gsap\3.10.4\Draggable.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/EasePack.min.js
+File Name: D:\Web\www.clapat.com\ajax\libs\gsap\3.10.4\EasePack.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js
+File Name: D:\Web\www.clapat.com\ajax\libs\gsap\3.10.4\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js
+File Name: D:\Web\www.clapat.com\ajax\libs\gsap\3.10.4\ScrollToPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollTrigger.min.js
+File Name: D:\Web\www.clapat.com\ajax\libs\gsap\3.10.4\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js
+File Name: D:\Web\www.clapat.com\ajax\libs\jquery.imagesloaded\5.0.0\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js
+File Name: D:\Web\www.clapat.com\ajax\libs\ScrollMagic\2.0.7\ScrollMagic.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/animation.gsap.min.js
+File Name: D:\Web\www.clapat.com\ajax\libs\ScrollMagic\2.0.8\plugins\animation.gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js
+File Name: D:\Web\www.clapat.com\ajax\libs\three.js\r128\three.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700
+File Name: D:\Web\www.clapat.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: D:\Web\www.clapat.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: D:\Web\www.clapat.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: D:\Web\www.clapat.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: D:\Web\www.clapat.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\Web\www.clapat.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyCpK1sWi3J3EbUOkF_K4-UHzi285HyFX5M&sensor=false
+File Name: D:\Web\www.clapat.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://www.clapat.com/templates/humpton/
+File Name: D:\Web\www.clapat.com\templates\humpton\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/about/
+File Name: D:\Web\www.clapat.com\templates\humpton\about\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/contact/
+File Name: D:\Web\www.clapat.com\templates\humpton\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/css/all.min.css
+File Name: D:\Web\www.clapat.com\templates\humpton\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.clapat.com/templates/humpton/css/assets.css
+File Name: D:\Web\www.clapat.com\templates\humpton\css\assets.css
+Content Type: text/css
+
+Uri: https://www.clapat.com/templates/humpton/css/content.css
+File Name: D:\Web\www.clapat.com\templates\humpton\css\content.css
+Content Type: text/css
+
+Uri: https://www.clapat.com/templates/humpton/css/portfolio.css
+File Name: D:\Web\www.clapat.com\templates\humpton\css\portfolio.css
+Content Type: text/css
+
+Uri: https://www.clapat.com/templates/humpton/css/shortcodes.css
+File Name: D:\Web\www.clapat.com\templates\humpton\css\shortcodes.css
+Content Type: text/css
+
+Uri: https://www.clapat.com/templates/humpton/css/showcase.css
+File Name: D:\Web\www.clapat.com\templates\humpton\css\showcase.css
+Content Type: text/css
+
+Uri: https://www.clapat.com/templates/humpton/favicon.ico
+File Name: D:\Web\www.clapat.com\templates\humpton\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.clapat.com/templates/humpton/images/01hero.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\01hero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/02hero.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\02hero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/03hero.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\03hero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/04hero.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\04hero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/logo-white.png
+File Name: D:\Web\www.clapat.com\templates\humpton\images\logo-white.png
+Content Type: image/png
+
+Uri: https://www.clapat.com/templates/humpton/images/logo.png
+File Name: D:\Web\www.clapat.com\templates\humpton\images\logo.png
+Content Type: image/png
+
+Uri: https://www.clapat.com/templates/humpton/images/news01.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\news01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/news02.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\news02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/news03.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\news03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/news04.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\news04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/news05.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\news05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/news06.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\news06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/rotate.png
+File Name: D:\Web\www.clapat.com\templates\humpton\images\rotate.png
+Content Type: image/png
+
+Uri: https://www.clapat.com/templates/humpton/images/studio01.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\studio01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/studio02.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\studio02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/studio03.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\studio03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/images/studio04.jpg
+File Name: D:\Web\www.clapat.com\templates\humpton\images\studio04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clapat.com/templates/humpton/index-carousel/
+File Name: D:\Web\www.clapat.com\templates\humpton\index-carousel\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/index-showcase/
+File Name: D:\Web\www.clapat.com\templates\humpton\index-showcase\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/index/
+File Name: D:\Web\www.clapat.com\templates\humpton\index\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/js/clapatwebgl.js
+File Name: D:\Web\www.clapat.com\templates\humpton\js\clapatwebgl.js
+Content Type: application/javascript
+
+Uri: https://www.clapat.com/templates/humpton/js/common.js
+File Name: D:\Web\www.clapat.com\templates\humpton\js\common.js
+Content Type: application/javascript
+
+Uri: https://www.clapat.com/templates/humpton/js/contact.js
+File Name: D:\Web\www.clapat.com\templates\humpton\js\contact.js
+Content Type: application/javascript
+
+Uri: https://www.clapat.com/templates/humpton/js/jquery.min.js
+File Name: D:\Web\www.clapat.com\templates\humpton\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.clapat.com/templates/humpton/js/plugins.js
+File Name: D:\Web\www.clapat.com\templates\humpton\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://www.clapat.com/templates/humpton/js/scripts.js
+File Name: D:\Web\www.clapat.com\templates\humpton\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://www.clapat.com/templates/humpton/multimedia/
+File Name: D:\Web\www.clapat.com\templates\humpton\multimedia\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/portfolio-grid/
+File Name: D:\Web\www.clapat.com\templates\humpton\portfolio-grid\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/portfolio-overlapping-grid/
+File Name: D:\Web\www.clapat.com\templates\humpton\portfolio-overlapping-grid\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/portfolio-parallax-grid/
+File Name: D:\Web\www.clapat.com\templates\humpton\portfolio-parallax-grid\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/project01/
+File Name: D:\Web\www.clapat.com\templates\humpton\project01\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/project02/
+File Name: D:\Web\www.clapat.com\templates\humpton\project02\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/project03/
+File Name: D:\Web\www.clapat.com\templates\humpton\project03\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/project04/
+File Name: D:\Web\www.clapat.com\templates\humpton\project04\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/shortcodes/
+File Name: D:\Web\www.clapat.com\templates\humpton\shortcodes\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/style.css
+File Name: D:\Web\www.clapat.com\templates\humpton\style.css
+Content Type: text/css
+
+Uri: https://www.clapat.com/templates/humpton/typography/
+File Name: D:\Web\www.clapat.com\templates\humpton\typography\index.htm
+Content Type: text/html
+
+Uri: https://www.clapat.com/templates/humpton/webfonts/fa-brands-400.ttf
+File Name: D:\Web\www.clapat.com\templates\humpton\webfonts\fa-brands-400.ttf
+Content Type: x-font/ttf
+
+Uri: https://www.clapat.com/templates/humpton/webfonts/fa-brands-400.woff2
+File Name: D:\Web\www.clapat.com\templates\humpton\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.clapat.com/templates/humpton/webfonts/fa-regular-400.ttf
+File Name: D:\Web\www.clapat.com\templates\humpton\webfonts\fa-regular-400.ttf
+Content Type: x-font/ttf
+
+Uri: https://www.clapat.com/templates/humpton/webfonts/fa-regular-400.woff2
+File Name: D:\Web\www.clapat.com\templates\humpton\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.clapat.com/templates/humpton/webfonts/fa-solid-900.ttf
+File Name: D:\Web\www.clapat.com\templates\humpton\webfonts\fa-solid-900.ttf
+Content Type: x-font/ttf
+
+Uri: https://www.clapat.com/templates/humpton/webfonts/fa-solid-900.woff2
+File Name: D:\Web\www.clapat.com\templates\humpton\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.clapat.com/templates/humpton/webfonts/fa-v4compatibility.ttf
+File Name: D:\Web\www.clapat.com\templates\humpton\webfonts\fa-v4compatibility.ttf
+Content Type: x-font/ttf
+
+Uri: https://www.clapat.com/templates/humpton/webfonts/fa-v4compatibility.woff2
+File Name: D:\Web\www.clapat.com\templates\humpton\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
